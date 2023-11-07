@@ -26,12 +26,12 @@ The Movie Data Visualization App is a web application that allows users to explo
 
 1. Clone the project repository:
    
-   git clone https://github.com/Anonymous-12-05/datavisualisatiion-app.git
+   git clone https://github.com/Anonymous-12-05/Joel-Jacob-Scifor.git
    
 
 2. Change into the project directory:
    
-   cd project-dir
+   cd Project 1
    
 
 3. Install the required dependencies using `pip`:
